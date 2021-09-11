@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://tour-of-heroes-tau.vercel.app/">
+  <a href="https://djvendas.netlify.app/">
     <img alt="DJ Vendas" title="DJ Vendas" src="https://user-images.githubusercontent.com/45500812/132932385-8aa2c581-2677-4c47-a6e7-a7f778c51743.png" width="40%" />
   </a>
 </h1>
